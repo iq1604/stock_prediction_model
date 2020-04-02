@@ -1,4 +1,4 @@
-# stock prediction model using RNN
+# Stock prediction model using RNN
 
 This notebook demonstrates the future price predcition of SBI stock using recurrent neural network (RNN) in tensorflow.
 It also demonstrates a technique to identify the sudden attacks that occur in the stock prices and mitigate their impact on the
