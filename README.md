@@ -27,7 +27,7 @@ tensorflow
 In anaconda prompt command pip install 'Package name' would install the required package along with all the dependencies.
 
 Otherwise one can also use conda installation.
-For mode details check out https://docs.conda.io/projects/conda/en/latest/commands/install.html
+For more details check out https://docs.conda.io/projects/conda/en/latest/commands/install.html
 
 For linux based systems pip install package commands can be directly run from normal command prompt to download package and 
 its dependencies.
