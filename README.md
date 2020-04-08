@@ -1,6 +1,6 @@
 # Stock prediction model using RNN
 
-This notebook demonstrates the future price predcition of SBI stock using recurrent neural network (RNN) in tensorflow.
+This notebook demonstrates the future price prediction of SBI stock using recurrent neural network (RNN) in tensorflow.
 It also demonstrates a technique to identify the sudden attacks that occur in the stock prices and mitigate their impact on the
 stock prediction trends. 
 
@@ -32,7 +32,7 @@ For more details check out https://docs.conda.io/projects/conda/en/latest/comman
 For linux based systems pip install package commands can be directly run from normal command prompt to download package and 
 its dependencies.
 
-To install tensorflow one can use conda install -c conda-forge tensorflow if the above commands doesn't work
+To install tensorflow one can use 'conda install -c conda-forge tensorflow' if the above commands doesn't work
 
 ```
 pip install pandas
@@ -55,4 +55,4 @@ conda install pandas
 ## Acknowledgments
 
 * Raoul Malm - NY Stock Price Prediction RNN LSTM GRU
-* Sudarshan Deskmukh
+* Sudarshan Deshmukh
